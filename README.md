@@ -2,6 +2,9 @@
 
 This project provides the Khronos official Vulkan Loader for all platforms except [Android](https://android.googlesource.com/platform/frameworks/native/+/master/vulkan/)
 
+## Disclaimer
+This fork default branch (currently) corresponds to version "1.4.333" 
+
 ## Introduction
 
 Vulkan is an explicit API, enabling direct control over how GPUs actually work.
